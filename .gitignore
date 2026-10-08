@@ -1,0 +1,9 @@
+# Build output
+SimplePlayerPresence.exe
+*.exe
+app/extension/
+
+# Old native-messaging version (local only)
+host/
+install.bat
+uninstall.bat
